@@ -17,3 +17,7 @@ print(
     + "and my girlfriend name is "
     + my_gf_name
 )
+# f-strings (formatted string literals) are a way to embed expressions inside string literals, using curly braces {}. They provide a more readable and concise way to format strings compared to traditional string concatenation or formatting methods.
+print(
+    f"My Name is {first_name} {last_name} and my age is {age} and my girlfriend name is {my_gf_name}"
+)
