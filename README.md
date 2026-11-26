@@ -69,6 +69,10 @@ cd Python-Learning
 python filename.py
 ```
 
+```bash
+py filename.py
+```
+
 ---
 
 ## 🎯 Purpose
